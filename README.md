@@ -8,3 +8,6 @@ Built a resume-to-job matching system using:
 - Cosine similarity ranking
 
 Developed for Redrob AI Campus Hackathon.
+# Output
+
+![Program Output](output.png)
