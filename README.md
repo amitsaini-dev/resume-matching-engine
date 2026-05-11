@@ -10,4 +10,4 @@ Built a resume-to-job matching system using:
 Developed for Redrob AI Campus Hackathon.
 # Output
 
-![Program Output](output.png)
+![Program Output](Output.png)
